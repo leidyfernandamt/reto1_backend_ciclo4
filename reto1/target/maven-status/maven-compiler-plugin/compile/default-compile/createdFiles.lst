@@ -1,0 +1,6 @@
+com\OchoBits_Reto1\reto1\Interface\User_interface.class
+com\OchoBits_Reto1\reto1\Reto1Application.class
+com\OchoBits_Reto1\reto1\Service\User_Service.class
+com\OchoBits_Reto1\reto1\controller\User_ControllerWeb.class
+com\OchoBits_Reto1\reto1\Repository\User_Repository.class
+com\OchoBits_Reto1\reto1\Modelo\User.class
